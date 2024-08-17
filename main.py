@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Lauki Finance: Credit Risk Modelling")
+st.title("Bajaj Finance: Credit Risk Modelling")
 from prediction_helper import predict
 
 # Create rows of three columns each
